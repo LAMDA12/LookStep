@@ -1,0 +1,11 @@
+data_construction/outputs/
+model_training/data/
+model_training/checkpoints/
+model_training/logs/
+simulation/outputs/
+model/*.safetensors
+model/*.bin
+model/*.pt
+model/*.pth
+__pycache__/
+*.pyc
