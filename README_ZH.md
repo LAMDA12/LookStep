@@ -73,14 +73,15 @@ bash LookStep/reproduce_paper.sh verify
 | 模拟仿真 | `simulation/evaluate_short_label_sim.py` | Habitat 在线 EventFIFO 导航 |
 | 统一入口 | `reproduce_paper.sh` | 分阶段 check/build/prepare/train/eval/verify |
 
-引用
+## 引用
 
-@inproceedings{
-lookstep,
-title={LookStep: Efficient Vision-Language Navigation with Linguistic Foresight and Event Driven Memory},
-author={Kun-Yang Yu, Yingzhe Li, Hongyu Xu, Shi-Yu Tian, Zhi Zhou, Yang Chen, Ming Yang, Sheng Wang, Qing Yu, Lan-Zhe Guo, Yu-Feng Li},
-booktitle={The 2026 Conference on Empirical Methods in Natural Language Processing},
-year={2026}
+```bibtex
+@inproceedings{lookstep,
+  title     = {LookStep: Efficient Vision-Language Navigation with Linguistic Foresight and Event Driven Memory},
+  author    = {Kun-Yang Yu and Yingzhe Li and Hongyu Xu and Shi-Yu Tian and Zhi Zhou and Yang Chen and Ming Yang and Sheng Wang and Qing Yu and Lan-Zhe Guo and Yu-Feng Li},
+  booktitle = {The 2026 Conference on Empirical Methods in Natural Language Processing},
+  year      = {2026}
 }
+```
 
 If you have any questions, please contact yuky@lamda.nju.edu.cn.
